@@ -35,7 +35,7 @@
 
 #include <Wire.h>
 
-#include "RadiohoundMPL3115A2.h"
+#include "RadioHoundMPL3115A2.h"
 
 MPL3115A2::MPL3115A2()
 {
